@@ -1,0 +1,9 @@
+[2022-05-03 10:38:19,158] (INFO) hello world
+[2022-05-03 10:39:14,208] (ERROR) Traceback (most recent call last):
+  File "D:\program\batteryRecordProgram\utils\logTool.py", line 42, in inner_function
+    return func(*args, **kwargs)
+  File "D:/program/batteryRecordProgram/test/test_logTool.py", line 7, in aFun
+    c = b/a
+ZeroDivisionError: division by zero
+
+[2022-05-03 10:39:14,209] (ERROR) division by zero
